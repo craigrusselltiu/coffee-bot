@@ -1,9 +1,7 @@
 /*
-INFO1103 - Assignment 1
-Craig Russell Tiu - ctiu6442
-
-Yes, I did copy and paste this. This was code that I have written myself
-on Atom. I promise. :)
+Description:
+- A simple coffee bot that asks for a custom coffee order (number of shots in the coffee), calculates cost,
+  and correctly identifies change denominations. Errors are handled appropriately.
 
 Reminders:
 - Assume that the program only needs to handle integer arguments.
