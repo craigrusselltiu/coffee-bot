@@ -7,3 +7,14 @@ Run the code by running CoffeeBot with 2 command line arguments - how much stock
 ```
 java CoffeeBot cupsInStock shotsInStock
 ```
+
+## What I Learned
+- Java scanner/user input
+- Command line arguments
+- Functions
+- For loops (in Java)
+- While loops (in Java)
+- Arrays (in Java)
+- Best writing practices
+- Code commenting practices
+- Among other things!
